@@ -7,7 +7,9 @@ https://github.com/ReDASers/CODASPY-2022-Deception
 
 # Files
 t-SNE.py: code used to visualise the datasets
+
 SimpleCART.py: implementation of a simple CART classifier
+
 AffProp.py: implementation of the Affinity Propagation algorithm 
 
 # Running the code
